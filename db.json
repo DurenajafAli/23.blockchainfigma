@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "Name": "Ali",
+      "Email": "ali@gmail.com",
+      "Phoneno": "000000",
+      "Password": "123",
+      "id": 1,
+      "BasicProfileData": {
+        "Firstname": "Ali",
+        "Lastname": "Iqbal",
+        "Date": "1006-10-11",
+        "Degreelevel": "jjajfa"
+      },
+      "BasicContactData": {
+        "email": "",
+        "Homecontactno": "",
+        "Mobileno": "",
+        "Country": "",
+        "Addressline1": "",
+        "City": "",
+        "Addressline2": "",
+        "Postalcode": ""
+      },
+      "basicExperienceData": {
+        "Jobcity": "",
+        "Expectdesignation": "",
+        "Experience": ""
+      },
+      "Summary": [
+        [
+          [
+            [
+              {
+                "summary": "my name is muazz i am a developer"
+              }
+            ],
+            {
+              "summary": "my name is muazz i am a developer"
+            }
+          ],
+          {
+            "summary": "My name is Ali I am a web developer"
+          }
+        ],
+        {
+          "Summary": "My name is Ali I am a Junior web developer"
+        }
+      ],
+      "Workhistory": [
+        {
+          "title": "junior web developer",
+          "Company": "12UP",
+          "From": "12/2019",
+          "Present": "12/2020",
+          "ReferenceEmail": "ali@gmail.com",
+          "ReferenceNumber": "000000",
+          "Country": "Pakistan",
+          "City": "Lahore"
+        }
+      ],
+      "Project": [
+        {
+          "ProjectTitle": "Figma",
+          "Company": "12UP",
+          "From": "12/2022",
+          "Present": "12/2023",
+          "ProjectUrl": "Figma@.com",
+          "Client/CustomerURL": "muazz@gmail.com",
+          "Client/Customer Name": "muazz",
+          "Tools": "devtools"
+        }
+      ],
+      "Certification": [
+        {
+          "CertificationName*": "VvorkCloud",
+          "License": "111111",
+          "Certification Authority": "VvorkCloudTechnology",
+          "CertificationURL": "Cloud@gmail.com",
+          "CompletionDate": "1995-10-11",
+          "Certificate": "yes"
+        }
+      ],
+      "Preferjobcity": [
+        {
+          "Preferjobcity": "Lahore"
+        }
+      ],
+      "Hobbies": [
+        {
+          "Hobbies": "Cricket"
+        },
+        {
+          "Hobbies": "Book Reading"
+        }
+      ],
+      "Language": {
+        "Language": "English"
+      },
+      "References": [
+        {
+          "Name": "Ali",
+          "Company": "12UP",
+          "email": "ali@gmail.com",
+          "Contactno": "000000"
+        }
+      ],
+      "Skills": [
+        {
+          "Skill": "HTML",
+          "percentage": "90"
+        },
+        {
+          "Skill": "CSS",
+          "percentage": "95"
+        },
+        {
+          "Skill": "Javascript",
+          "percentage": "50"
+        },
+        {
+          "Skill": "React",
+          "percentage": "80"
+        },
+        {
+          "Skill": "Redux",
+          "percentage": "90"
+        }
+      ]
+    }
+  ]
+}
